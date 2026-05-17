@@ -1,0 +1,664 @@
+﻿game_name,review_text,sentiment,source,app_id,voted_up,timestamp_created,playtime_forever,language,votes_up,weighted_vote_score,steam_purchase,received_for_free,written_during_early_access
+Dying Light,"Rapaz, se eu fosse definir esse jogo com uma palavra só, seria baguioloko, jogo top caraca, recomendo comprar ele, vale realmente apena, sem contar com as inumeras armas que tem no game, top de verdade mermão, compraa!",positive,steam_live,239140,True,1778718453,1871,brazilian,0,0.5,True,False,False
+Dying Light,да,positive,steam_live,239140,True,1778718268,994,russian,0,0.5,True,False,False
+Dying Light,isso e harran : bicuda no zumbi,positive,steam_live,239140,True,1778717044,2443,brazilian,0,0.5,True,False,False
+Dying Light,polecam 10/10,positive,steam_live,239140,True,1778716178,3420,polish,0,0.5,True,False,False
+Dying Light,For how old this game is it's excellent. Strongly recommend this title if you're looking for a zombie open world rpg.,positive,steam_live,239140,True,1778714084,2848,english,0,0.5,True,False,False
+Dying Light,dehşetülvahşet oyun,positive,steam_live,239140,True,1778713593,2406,turkish,0,0.5,True,False,False
+Dying Light,aga akışkanlar mekaniğinden sonra oynanacak en iyi oyun zombilerden hıncımı çıkarıyorum zevkli oynayın oynattırın,positive,steam_live,239140,True,1778713466,3591,turkish,0,0.5,True,False,False
+Dying Light,jogaço da porra,positive,steam_live,239140,True,1778713256,1664,brazilian,0,0.5,True,False,False
+Dying Light,"não é um jogo difícil, quando voce está com vida nas armas... Rodou bem :)",positive,steam_live,239140,True,1778712810,598,brazilian,0,0.5,True,False,False
+Dying Light,"After completing all side quests & the entire main questline, I can confirm Dying Light is one of the best zombie games out there. It offers horror, but not too much, has a great map (or 2 maps I should say). Lots of fun side quests that really immerse you in the horrors of Harran. Additionally, this game ran at 60 fps on my ♥♥♥♥ of a laptop which was great considering other games run at 5 fps. 10/10, would play again and will be buying Dying Light: The Following as soon as summer sale comes.",positive,steam_live,239140,True,1778711460,5362,english,0,0.5,True,False,False
+Dying Light,papapa INCRRR,positive,steam_live,239140,True,1778708214,2195,french,0,0.5,True,False,False
+Dying Light,el mejor juegos de zombies y parkour del mundo,positive,steam_live,239140,True,1778706202,1254,spanish,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778698253,1174,russian,0,0.5,True,False,False
+Dying Light,peak because you can dropkick children,positive,steam_live,239140,True,1778697745,2933,english,0,0.5,True,False,False
+Dying Light,anlatmaya gerek yok,positive,steam_live,239140,True,1778695560,2775,turkish,0,0.5,True,False,False
+Dying Light,bom,positive,steam_live,239140,True,1778693573,1283,brazilian,0,0.5,True,False,False
+Dying Light,"Игра крутая для 2015 года, механика паркура и сюжет немного хромает, но геймплей имба. Советую всем особенно с друзьями, так еще и по скидки в 90%)))",positive,steam_live,239140,True,1778693372,937,russian,0,0.5,True,False,False
+Dying Light,this game made me instantly bust upon seeing a goon. 10/10 would recommend,positive,steam_live,239140,True,1778693369,1041,english,0,0.5,True,False,False
+Dying Light,"“It was perfect. Perfect. Everything. Down to the last minute details.""
+
+zombies plus parkour literally perfection",positive,steam_live,239140,True,1778692418,3419,english,0,0.5,True,False,False
+Dying Light,Jogo Top!,positive,steam_live,239140,True,1778691111,971,brazilian,0,0.5,True,False,False
+Dying Light,güzel,positive,steam_live,239140,True,1778690379,5914,turkish,0,0.5,True,False,False
+Dying Light,increible,positive,steam_live,239140,True,1778688579,1225,latam,0,0.5,True,False,False
+Dying Light,кайф,positive,steam_live,239140,True,1778683457,1268,russian,0,0.5,True,False,False
+Dying Light,fun game!,positive,steam_live,239140,True,1778683169,7201,swedish,0,0.5,True,False,False
+Dying Light,"⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄
+⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆⠄⠄
+⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⠄⠄
+⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄⠄
+⠄⢸⢠⣿⣿⣧⡙⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠈⠛⢿⣿⣿⡇⠸⣿⡿⣸⡇⠄
+⠄⠈⡆⣿⣿⣿⣿⣦⡙⠳⠄⠄⠄⠄⠄⠄⢀⣠⣤⣀⣈⠙⠃⠄⠿⢇⣿⡇⠄
+⠄⠄⡇⢿⣿⣿⣿⣿⡇⠄⠄⠄⠄⠄⣠⣶⣿⣿⣿⣿⣿⣿⣷⣆⡀⣼⣿⡇⠄
+⠄⠄⢹⡘⣿⣿⣿⢿⣷⡀⠄⢀⣴⣾⣟⠉⠉⠉⠉⣽⣿⣿⣿⣿⠇⢹⣿⠃⠄
+⠄⠄⠄⢷⡘⢿⣿⣎⢻⣷⠰⣿⣿⣿⣿⣦⣀⣀⣴⣿⣿⣿⠟⢫⡾⢸⡟⠄.
+⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞⠄⠄⠄
+⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦⠄⠄⠄⠄⠄⠄⠄⠄
+melhor jogo que eu joguei, valeu cada sentavo, em ambas plataformas, otimo jogo pra aprender a jogar no teclado tambem, a historia sempre me faz arrepiar, jogo estressa as vezes no modo hard, então se quiser jogar pela historia recomendo mesmo modo normal ou menos.",positive,steam_live,239140,True,1778683001,2053,brazilian,0,0.5,True,False,False
+Dying Light,"Прикольная игра с очень крутым паркуром. Неплохой сюжет, атмосфера прекрасная. Как коротенькая сюжетка на 15 часов пойдет очень даже",positive,steam_live,239140,True,1778680978,989,russian,0,0.5,True,False,False
+Dying Light,GOTY,positive,steam_live,239140,True,1778678092,1565,latam,0,0.5,True,False,False
+Dying Light,Harika,positive,steam_live,239140,True,1778676865,814,turkish,0,0.5,True,False,False
+Dying Light,"Это игра, которая в 2026 году по-прежнему остается королем зомби-экшенов. Techland удалось создать идеальный гибрид из паркура в духе Mirror's Edge и брутальной системы ближнего боя. Оценка «11 из 10» здесь за то, что спустя столько лет ни один конкурент так и не смог повторить эту химию.
+
+Лучший паркур в жанре: Перемещение по Харрану - это отдельный вид искусства. Ты не просто бежишь, ты чувствуешь каждое движение, инерцию и высоту. Весь город спроектирован как гигантская игровая площадка, где крыши - твоя единственная безопасная зона.
+
+Цикл дня и ночи: Гениальное решение, которое меняет правила игры. Днем ты - охотник, который методично зачищает улицы. Ночью ты - добыча. Появление Прыгунов превращает экшен в напряженный хоррор, от которого зашкаливает пульс.
+
+Система расчлененки и крафта: Удары ощущаются невероятно физично. Ты чувствуешь, как труба ломает кости, а мачете отсекает конечности. Возможность собрать из хлама электрический топор или огненный меч добавляет геймплею фана и вариативности.
+
+Атмосфера и дизайн: Харран выглядит потрясающе аутентично. От трущоб, залитых палящим солнцем, до Старого города с его европейской архитектурой - каждый район пропитан духом безнадеги и запустения.
+
+Кооператив: Проходить историю с друзьями - это отдельный кайф. Совместные забеги по крышам, соревновательные испытания и помощь в битвах с боссами делают игру практически бесконечной.
+
+Поддержка и DLC: Дополнение The Following с полноценной картой и багги - это пример того, какими должны быть идеальные DLC. Techland поддерживали игру контентом много лет, что сделало сообщество фанатов невероятно преданным.
+
+Итог: Это эталонный зомби-апокалипсис. Игра дает тебе абсолютную свободу движений и заставляет искренне бояться темноты. Если ты ищешь идеальное сочетание скорости, жестокости и атмосферы - это твой выбор.",positive,steam_live,239140,True,1778674775,2472,russian,0,0.5,True,False,False
+Dying Light,parkour best,positive,steam_live,239140,True,1778674588,2703,english,0,0.5,True,False,False
+Dying Light,HER NOKTASI HARİKA,positive,steam_live,239140,True,1778672940,1818,turkish,0,0.5,True,False,False
+Dying Light,"""It's always dying before the light""
+-John Dying Light",positive,steam_live,239140,True,1778672883,1983,english,0,0.5,True,False,False
+Dying Light,имба,positive,steam_live,239140,True,1778672570,4836,russian,0,0.5,True,False,False
+Dying Light,ЫФыууыупп пвыеееее,positive,steam_live,239140,True,1778671527,1915,russian,0,0.5,True,False,False
+Dying Light,The most intelligent zombie game I've played. DLC makes it even better. 7.5/10 game POLSKA GUROM,positive,steam_live,239140,True,1778671334,4256,english,0,0.5,True,False,False
+Dying Light,mega fajne gra polacam,positive,steam_live,239140,True,1778671117,2372,polish,0,0.5,True,False,False
+Dying Light,best zombie game:P,positive,steam_live,239140,True,1778668805,782,english,0,0.5,True,False,False
+Dying Light,"Зомби - сочные, прямо хрустят. Паркур - залипательный, как будто я обезьянка на энергетиках. Но главная фишка это мой брат. Пока я красиво забегаю на крышу, он внизу пытается отбиться ломом от толпы, орёт в микрофон и тратит патроны на тени. Прошли игру на том, что я его просто кидал вниз головой в толпу, чтобы самому сбежать. 10/10, брат до сих пор обижен",positive,steam_live,239140,True,1778668652,2643,russian,0,0.5,True,False,False
+Dying Light,"Это лучший симулятор паркура, где ты чувствуешь себя ассасином ровно до того момента, пока не промахнешься мимо мусорного бака и не разлетишься об асфальт на глазах у ржущего кента. Днем мы еще как-то выебывались, ебашили зомби битами с током, но как только наступала ночь — всё, ♥♥♥♥♥♥. Начинался марафон «кто быстрее добежит до базы и не пустит подливку», потому что когда за тобой несется Прыгун и дышит тебе прямо в жопу, ты открываешь в себе скрытые таланты олимпийского чемпиона по бегу.
+В дополнении The Following мы открыли для себя тачки и поняли, что давить зомбаков в поле — это гораздо веселее, чем пытаться залезть на сраный столб. Кент постоянно врезался в деревья, я вылетал через лобовуху, но мы упорно ехали дальше. Короче, игра — топовый угар, особенно когда ты случайно кидаешь гранату под ноги другу, пока он ковыряет замок.",positive,steam_live,239140,True,1778667353,2289,russian,0,0.5,True,False,False
+Dying Light,即便如此，克兰也会拼尽全力，去追逐那道即将消逝的光芒,positive,steam_live,239140,True,1778667069,6474,schinese,2,0.52173912525177002,True,False,False
+Dying Light,имба,positive,steam_live,239140,True,1778662755,404,russian,0,0.5,True,False,False
+Dying Light,i love techland oh ye,positive,steam_live,239140,True,1778662252,12577,thai,0,0.5,True,False,False
+Dying Light,oynayın aq,positive,steam_live,239140,True,1778659814,503,turkish,0,0.5,True,False,False
+Dying Light,Zombi istilası olduğu zamanlara hazırlanmanız için eğitim ))),positive,steam_live,239140,True,1778657378,3463,turkish,0,0.5,True,False,False
+Dying Light,podes ponerle fuego a un palo del piso 10/10,positive,steam_live,239140,True,1778655099,1688,spanish,0,0.5,True,False,False
+Dying Light,juegaso,positive,steam_live,239140,True,1778649421,1743,spanish,1,0.523809552192687988,True,False,False
+Dying Light,"Rating: ⭐⭐⭐⭐☆
+
+I've played about 11 hours and the game is a solid 8/10! The parkour is incredibly cool and the detailed map makes every run feel immersive. Whether playing solo or co-op with friends, the combat and crafting are top-notch. I especially love how the vibe changes—it’s a fun action game by day and a terrifying horror game by night. The tension is perfect!",positive,steam_live,239140,True,1778646639,640,english,0,0.5,True,False,False
+Dying Light,Muito bom recomendo,positive,steam_live,239140,True,1778642880,5797,brazilian,0,0.5,True,False,False
+Dying Light,annoying gameplay,negative,steam_live,239140,False,1778635232,684,english,0,0.431203454732894897,True,False,False
+Dying Light,good story line,positive,steam_live,239140,True,1778634977,1947,english,0,0.5,True,False,False
+Dying Light,砍怪，爽！！！一刀一个小朋友，各方面都合我胃口，就是剧情有点一言难尽，不过我也不是什么剧情党哈哈（ps:买决定版10周年，千万别买普通的，会少很大一部分内容）,positive,steam_live,239140,True,1778634900,5993,schinese,0,0.5,True,False,False
+Dying Light,one of those games i constantly find myself coming back to. Probably one of the best games to come out of the late 2000s and early 2010s zombie FPS genre,positive,steam_live,239140,True,1778633880,4790,english,1,0.523809552192687988,True,False,False
+Dying Light,excelente,positive,steam_live,239140,True,1778633346,887,spanish,0,0.5,True,False,False
+Dying Light,10/10 would speedrun unlocking the dropkick ability and spend 35 hours just dying from trying to send zombies flying down from rooftops and missing them resulting in my falling off instead again,positive,steam_live,239140,True,1778625492,2389,english,0,0.5,True,False,False
+Dying Light,fffsad,positive,steam_live,239140,True,1778622474,309,english,0,0.467488318681716919,True,False,False
+Dying Light,"i think this is the first parkour open-world zombie survival horror game !! 
+i remember playing this game back in 2017! intense experience especially during the night! DON'T look back,
+ just RUNNNNNNNNNN
+
+beautiful solid game 
+10/10",positive,steam_live,239140,True,1778621772,11530,english,0,0.5,True,False,False
+Dying Light,"Gra jako jedna z nielicznych zasługuje na 10/10. Wszystko w tej grze doszlifowane jest do perfekcji. Masa easter eggów, różnorodnych mechanik, jak i również trybów gry, a DLC The Following jest sztandarowym przykładem jak powinno wyglądać DLC.",positive,steam_live,239140,True,1778620240,6023,polish,0,0.5,True,False,False
+Dying Light,"I got this for around $2, but I'd recommend getting it if it's around $10. If you aren't as cheap as I am, it's probably worth like $20",positive,steam_live,239140,True,1778619052,2213,english,0,0.5,True,False,False
+Dying Light,çok iyi bir oyun online olunca çok iyi bir şeye dönüşüyor bazı kişiler yardım eder se tabii ve oyunda buglar var görevler çok iyi ve size oyunu alcaksanız the following DLC si ile almanızı öneririm farklı son oluyor,positive,steam_live,239140,True,1778617887,2011,turkish,0,0.5,True,False,False
+Dying Light,daora,positive,steam_live,239140,True,1778613788,2028,brazilian,0,0.5,True,False,False
+Dying Light,depuis mes 6 ans je joue a se jeux e laime bien ..,positive,steam_live,239140,True,1778607138,1309,french,0,0.5,True,True,False
+Dying Light,rozjebalem sie jak cwel na komendzie z skoku z bloku jebie mnie ta gra,negative,steam_live,239140,False,1778605143,1287,polish,0,0.476190477609634399,True,False,False
+Dying Light,хрустяшкi,positive,steam_live,239140,True,1778604247,1455,russian,0,0.5,True,False,False
+Dying Light,"p,klk",positive,steam_live,239140,True,1778603120,2550,english,0,0.467488318681716919,True,False,False
+Dying Light,"Dying Light — это, пожалуй, лучший симулятор выживания в зомби-апокалипсисе, который превращает обычный бег по крышам в искусство. Это игра, где ты чувствуешь себя атлетом днем и напуганной добычей ночью. Забавно смотреть на зомби, которые отлетают на десятки, а то и на сотни метров, когда ты влетаешь в них с двух ног. А так же легендарный саундтрек в меню игры - это одна из лучших мелодий в игровой индустрии. Играть определенно стоит.",positive,steam_live,239140,True,1778599618,2284,russian,0,0.5,True,False,False
+Dying Light,why don't explosion hazmat,positive,steam_live,239140,True,1778591800,6040,koreana,0,0.5,True,False,False
+Dying Light,"Норм, но вторая часть в разы лучше. Все очень даже неплохо, кроме душного длс Базака или как его там",positive,steam_live,239140,True,1778591323,4910,russian,1,0.504815161228179932,True,False,False
+Dying Light,"crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane, crane kyle crane.",positive,steam_live,239140,True,1778589552,5506,english,0,0.5,True,False,False
+Dying Light,jee are eee operative,positive,steam_live,239140,True,1778589532,4917,english,0,0.5,True,False,False
+Dying Light,mlöbno,positive,steam_live,239140,True,1778589430,1127,turkish,0,0.5,True,False,False
+Dying Light,Good Good game  +++++,positive,steam_live,239140,True,1778589283,1110,swedish,0,0.5,True,False,False
+Dying Light,poszczelilem dziecko i wtedy pobralem ta gre fajna jest,positive,steam_live,239140,True,1778587173,2111,polish,0,0.5,True,False,False
+Dying Light,玩就行了  别问 问就是玩就行了,positive,steam_live,239140,True,1778586950,4247,schinese,1,0.522058844566345215,True,False,False
+Dying Light,зомбее,positive,steam_live,239140,True,1778583797,1410,russian,0,0.5,True,False,False
+Dying Light,zobmie,positive,steam_live,239140,True,1778580487,220,english,0,0.5,True,False,False
+Dying Light,имба,positive,steam_live,239140,True,1778579216,1062,russian,0,0.5,True,False,False
+Dying Light,"This game has a lot going for it when it comes to the general feel of running around the Harran rooftops, evading or engaging zombies, trying to avoid making noise, finding new and fun ways to take out hordes that are in your way, and rummaging through abandoned apartments and gas stations looking for loot. The controls are sharp and your actions feel visceral. It also has a great soundtrack that adds a lot to the mood of desperation.
+
+Unfortunately I think its many flaws overshadow these better aspects.
+
+[list][*]There are some annoying performance issues that I understand a lot of people are plagued by, myself included. The game will run 144 fps fine for a while, then drop to 20-30 for no reason, only a restart fixes it.
+[*]The whole weapons & enemy balance is so unrealistic it hurts your brain. Iron pipes break after you hit a zombie ten times with it, but you can fix it with duct tape. Melee weapons increase in damage tenfold over the course of the game. Basic zombie grunts randomly get a HP boost at one point in the game so when you finally have some weapons that can take them out quick, you find yourself back to noob level damage. In a game that is supposed to immerse you in a zombie apocalypse, it feels like they tried hard to break that immersion.
+[*]Scripted story events are another way they made an effort to remove the fun. Many of them will leave you with some weapons/equipment arbitrarily disabled and having to figure out the correct route while being shot at or chased by killer speed-zombies. So you die a lot just learning how to beat that particular event. Near the end you have to climb a huge radio tower and they [b]disable your grappling hook...[/b]
+[*]You are equipped with ""survivor sense"" that makes you see night stalkers through walls. If you're going to give the character unnatural abilities, at least have an explanation for it. Or let us turn it off.
+[*]While I love the choice of setting, it quickly becomes painfully obvious that it is  an American's idea of an Arab city. I dont think I've heard anyone speak Arabic at all or refer to any fundamental concepts of Arabic culture. But I've heard French, Russian, etc. And to rub it in, the highest tier food is a [b]hamburger[/b] while Arabic foods are the lower tiers. The one reference to cultural I recall is Machiavelli (because of course the bad guys need to quote him). Sigh. More great potential lost.[/list]
+
+Some of the gameplay issues can be fixed with mods, but the core issues cannot be fully circumvented with what is currently available.
+
+Last but not least, the story leaves a lot to be desired. There are a few nice plot moments, mostly in the side quests. I also appreciate that one of the few prominent female characters is a badass (without further explanation) and doesn't double as a romantic interest. There is a seed to a great storyline there but it was never allowed to sprout, probably because someone watered it with energy drink. There are so many plot holes, so many flat characters, and so many bad decisions. And yes, a good story is based on conflict and main characters making poor choices, but the choices made in the main story by pretty much every character are just... well, stupid. Yes, people do stupid ♥♥♥♥ in the real world, but in Dying Light, the stupidity doesn't make sense based on their background.
+
+[spoiler]We have a presumably elite operative who starts out his visit to the quarantine zone by blindly following the utterly dumbass order to burn a bunch of Antazin, the suppressant that keeps the infected from turning into zombies. There are ten ways I could think of right away to ""force an encounter with Rais"" without being a murderous ♥♥♥♥. Hell, Kyle could just have stashed the Antazin temporarily then fetched it a little later. And this dumbass decision then affects [b]the whole story[/b]. So much death and suffering could have been avoided. Of course, Kyle then preceeds to just walk into blatant trap/setups throughout the game, as if getting caught with his pants down is his hobby. There are many more issues, but I am too tired to write more about it now, and you probably don't want to read more.[/spoiler]
+
+
+I have half a mind to re-write the story into something more believable and engaging.
+
+Anyway, my verdict is that I cannot recommend this game other than at a deep discount, and only for the purpose of trying out the free-roam zombie dodging parkour.",negative,steam_live,239140,False,1778576258,3932,english,6,0.489189237356185913,True,False,False
+Dying Light,非常好玩，沉浸感拉满了，两天时间一口气玩了十个小时,positive,steam_live,239140,True,1778574839,2360,schinese,0,0.5,True,False,False
+Dying Light,Best game ever so good lol xd (yes it is better than futa femboy house),positive,steam_live,239140,True,1778568395,1393,english,0,0.5,True,False,False
+Dying Light,"despues del parche retouched hotfix el juego corre como la verdadera mierda, no supera los 30 fps teniendo una laptop 4 veces mejor que los requisitos maximos, tiempo atras (en esta misma laptop) el juego corria hermosamente a +60 fps estable pero ahora se arruino con ese parche de mierda",negative,steam_live,239140,False,1778565844,3238,english,0,0.5,True,False,False
+Dying Light,"Симулятор натискання клавіші [Я
+]",positive,steam_live,239140,True,1778565548,2083,ukrainian,0,0.5,True,False,False
+Dying Light,Dead by daylight,positive,steam_live,239140,True,1778562444,383,english,0,0.5,True,False,False
+Dying Light,良作,positive,steam_live,239140,True,1778561620,2381,schinese,0,0.5,True,False,False
+Dying Light,greatest zombie game before resident evil,positive,steam_live,239140,True,1778558021,854,english,0,0.5,True,False,False
+Dying Light,I like. Better put together story than 2. This is the best out of the 3 games.,positive,steam_live,239140,True,1778557494,3289,english,0,0.5,True,False,False
+Dying Light,gg,positive,steam_live,239140,True,1778556706,1721,english,0,0.5,True,False,False
+Dying Light,"死妈游戏，我操死你吗的.死吗赖斯，司马剧情，司马收装备，司马boss战，死妈制作组,死妈最终章跑酷，死妈翻译,我操死你们制作组全家，一群畜生东西，反人类设计一堆，一辈子被美末踩头，玩死亡岛2老子还能玩爽，玩你这b游戏老子跟吃了屎一样难受，操你妈的,最终boss还是他妈的个qte对战，我草泥马的，操你妈的qte最终boss战，哪个傻逼想出来的。第一次玩到通关了还这么憋屈的游戏，从开局憋屈到结尾，草死你妈",negative,steam_live,239140,False,1778555803,1119,schinese,1,0.461538463830947876,True,False,False
+Dying Light,"ES UNA CHIMBA, los zombis tienen buenas mecanicas y lo mas magestuoso es el parkour y sentir que se pueden mover por donde quieran sin restricciones, al principio no lo queria jugar pues dije ""es otro juego aburrido de zombis"" pero este no, este supero mis espectativas.... RECOMENDADO",positive,steam_live,239140,True,1778553204,4351,spanish,0,0.5,True,False,False
+Dying Light,Nice,positive,steam_live,239140,True,1778548483,2331,english,0,0.5,True,False,False
+Dying Light,juegaso,positive,steam_live,239140,True,1778546238,4964,spanish,0,0.5,True,False,False
+Dying Light,Good night and good luck,positive,steam_live,239140,True,1778544287,2110,english,0,0.5,True,False,False
+Dying Light,"老游戏，不错，但有些地方还是折磨。
+本人懒狗，信徒dlc核爆通关就删了",positive,steam_live,239140,True,1778541095,2140,schinese,0,0.5,True,False,False
+Dying Light,bu oyunu oynayanın aklını sikeyim ya bok gibi oyun leş gibi oyun,negative,steam_live,239140,False,1778540257,1190,turkish,0,0.491803258657455444,True,False,False
+Dying Light,лучшая,positive,steam_live,239140,True,1778537263,1272,russian,0,0.5,True,False,False
+Dying Light,67,positive,steam_live,239140,True,1778535974,1177,english,0,0.5,True,False,False
+Dying Light,quite fun good jumpscares solid sidequests overall solid 8/10,positive,steam_live,239140,True,1778533884,1014,english,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778532678,1738,english,0,0.5,True,False,False
+Dying Light,Awesome game!,positive,steam_live,239140,True,1778530567,1845,english,0,0.5,True,False,False
+Dying Light,"Buy it, play it , finish it, play it again in hardest mode, play the dlc, finish all side and main quest but never touch hellraid. I don't belive anyone plays that shii",positive,steam_live,239140,True,1778529236,4268,english,0,0.5,True,False,False
+Dying Light,"Corres, escalas un edificio, desbloqueas una habilidad para saltar en las paredes, corres, escalas otro edificio y debido a la habilidad saltas a la dirección contraria, caes, mueres, obra maestra",positive,steam_live,239140,True,1778527546,1925,latam,0,0.5,True,False,False
+Dying Light,"I liked Dead Island back then, but now I'm not enjoying Dying Light, which is an improvement over Dead Island. The parkour is cool, but the story is weak, the NPCs you interact with aren't interesting, and the quest system and weapon system (both very similar to Dead Island's) are terrible. I guess I've changed over time, my standards for games have increased considerably, which is good, I don't like wasting time (I won't be playing the sequels to this game).",negative,steam_live,239140,False,1778526871,3406,english,0,0.476190477609634399,True,False,False
+Dying Light,Zajebista gra,positive,steam_live,239140,True,1778526729,1210,polish,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778525638,1550,turkish,0,0.5,True,False,False
+Dying Light,"очень классная, залепательная игра советую))",positive,steam_live,239140,True,1778524235,2170,russian,0,0.5,True,False,False
+Dying Light,"muy bueno, me mori ;3",positive,steam_live,239140,True,1778523324,6472,latam,0,0.5,True,False,False
+Dying Light,nice game love parkour and combat and can play multiplayer with friends and can play as zombie,positive,steam_live,239140,True,1778517770,2065,english,0,0.5,True,False,False
+Dying Light,无需多言,positive,steam_live,239140,True,1778517171,1030,schinese,0,0.5,True,False,False
+Dying Light,hayatım,positive,steam_live,239140,True,1778513185,1954,turkish,0,0.5,True,False,False
+Dying Light,10/10 Absolute Videogame,positive,steam_live,239140,True,1778510494,993,brazilian,0,0.5,True,False,False
+Dying Light,haowan,positive,steam_live,239140,True,1778504826,1460,schinese,0,0.5,True,False,False
+Dying Light,좀비류 오픈월드 갓겜~,positive,steam_live,239140,True,1778501223,1567,koreana,0,0.5,True,False,False
+Dying Light,낙사버그ㅅㅂ,positive,steam_live,239140,True,1778497741,3896,koreana,0,0.5,True,False,False
+Dying Light,丧尸游戏很少玩，但是这款丧尸游戏真的让我觉得很不错的点就是好上手，虽然对于晕眩3D的玩家不是很友好，但是局内各种成长和道具，包括最爽的跑酷能轻松躲丧尸，而且最重要的能联机在线合作让这款游戏不再孤独，一起快乐太酷啦。,positive,steam_live,239140,True,1778497584,1124,schinese,1,0.523809552192687988,True,False,False
+Dying Light,好玩,positive,steam_live,239140,True,1778496627,2127,schinese,0,0.5,True,False,False
+Dying Light,很好的一款游戏，玩儿了消光才知道什么叫好游戏越老越香醇，不过晕3D慎入，我刚开始都有点晕，适应一会儿之后就好了,positive,steam_live,239140,True,1778496371,3037,schinese,0,0.5,True,False,False
+Dying Light,после встречи с прыгунами стало уже как не бурмалды на улице,positive,steam_live,239140,True,1778492617,1966,russian,0,0.5,True,False,False
+Dying Light,"ну если честно, то это обычная шаблонная игра про зомби суть которой заключается в том, чтобы вертеть кишкой и резать зомби я пишу сейчас серьозно ибо иго будуут рваться как сфера связанная из кишки, а ну вообще игра нормальная мне нравится я люблю играть в неё пацаны из 2027 предложили поиграть в неё и я обрёл такую уникальную возможность как выпрыгивать из окон пчелолёта это подрывает мой интерес к игре и заставляет слушать абунгу, но я не собираюсь так унижаться и тем более идти на какой-то ♥♥♥♥♥♥ компромисс я же не терпила, я X-ASH99 ♥♥♥♥♥♥! Я не хочу быть ♥♥♥♥♥♥ человеком лучдше буду роботом, а кстати почему в этой игре нет дроидов? сразу видно что разработчик не старался над игрой и ещё сэкономить и не добавить супермехов в игру чтобы всё живое взлетело на небеса! вообще игра напомнила мне вайб Батуми!",positive,steam_live,239140,True,1778491376,203,russian,1,0.523809552192687988,True,False,False
+Dying Light,"Прошел Дайнг Лайт 1 часть и скажу что это очень хорошая игра и пожалуй это самая лучшая часть игры, рекомендую тем кто хочет поиграть в мир зомби, главный персонаж тоже замечателен, по крайне мере я не заметил минусов игры, вообщем 22 часа были не зря",positive,steam_live,239140,True,1778489451,1389,russian,1,0.523809552192687988,True,False,False
+Dying Light,cool came. i wanna try the new one. start here first. i hope the sounds in the background are more various. This is badasszz,positive,steam_live,239140,True,1778489044,807,english,0,0.5,True,False,False
+Dying Light,"Очень хорошая игра(особенно в сравнении со 2 и 3 частями). Сюжет такое себе могло быть и лучше, но игра вывозит на своей атмосфере геймплее и уникальности. 
+Определенно стоит покупать, рекомендую к прохождению(если готовы к местами душноватому сюжету)",positive,steam_live,239140,True,1778484085,5446,russian,1,0.523809552192687988,True,False,False
+Dying Light,"It's a great game, I'd give the entire franchise a try.",positive,steam_live,239140,True,1778483575,6920,english,0,0.5,True,False,False
+Dying Light,divertido,positive,steam_live,239140,True,1778482290,2169,latam,0,0.5,True,False,False
+Dying Light,symulator krakowa polecam,positive,steam_live,239140,True,1778479530,2367,polish,0,0.5,True,False,False
+Dying Light,слишком мало детей зомби в игре,positive,steam_live,239140,True,1778478354,7392,russian,0,0.5,True,False,False
+Dying Light,갓겜,positive,steam_live,239140,True,1778475771,2307,koreana,0,0.5,True,False,False
+Dying Light,Игра кайф попробывал поиграть и в длс. Игрe хоть и 11 лет но графика держиться на высшем уровне,positive,steam_live,239140,True,1778474983,120,russian,1,0.523809552192687988,True,False,False
+Dying Light,"todo ano eu tenho que voltar pra jogar esse jogo,  desde 2016 esse jogo marcou a minha infância e com certeza marcou a década simplesmente o melhor e mais completo jogo de zumbis já feito até hoje",positive,steam_live,239140,True,1778467424,1564,brazilian,0,0.5,True,False,False
+Dying Light,"It's a very well optimized game and has amazing Graphics, great story telling and amazing movement/parkour.
+
+Over all the game is a 9 out of 10, i'd love for the developer to allow more players responsibilities for the actions taken like how they have it in Detroit Become Human.
+
+Tho the Linux Executable has some weird issue with the mouse/aim where if you move your mouse in a circle inside the game the mouse will move more square-ish, i don't know why tho so don't @ and blame me for it.",positive,steam_live,239140,True,1778464919,2070,english,0,0.5,True,False,False
+Dying Light,"Story is boring to me but, the gameplay is fun.",positive,steam_live,239140,True,1778462512,1209,english,0,0.5,True,False,False
+Dying Light,"If you were to describe a peak game, this is an option",positive,steam_live,239140,True,1778462429,951,english,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778459949,364,english,0,0.5,True,False,False
+Dying Light,8/10,positive,steam_live,239140,True,1778455494,1592,english,0,0.5,True,False,False
+Dying Light,"Buen juego, buena jugabilidad y parkour",positive,steam_live,239140,True,1778455365,606,spanish,0,0.5,True,False,False
+Dying Light,The best zombie game I've ever played. Runs great on both my laptop and steam deck.,positive,steam_live,239140,True,1778453560,6516,english,0,0.5,True,False,False
+Dying Light,Просто имбище,positive,steam_live,239140,True,1778451526,1787,english,0,0.5,True,False,False
+Dying Light,Ben bu oyunu oynarım aga,positive,steam_live,239140,True,1778450082,170,turkish,0,0.5,True,False,False
+Dying Light,Absolute Crane,positive,steam_live,239140,True,1778446078,560,english,0,0.5,True,False,False
+Dying Light,Топ,positive,steam_live,239140,True,1778445804,3242,russian,0,0.5,True,False,False
+Dying Light,çok güzel oyun yapandan allah razi,positive,steam_live,239140,True,1778445372,1500,turkish,0,0.5,True,False,False
+Dying Light,This game is everything i wanted for a zombie game really i freaking love this series,positive,steam_live,239140,True,1778444993,4660,english,0,0.5,True,False,False
+Dying Light,A game that's easy to pick up and hard to put down,positive,steam_live,239140,True,1778443717,3963,english,0,0.5,True,False,False
+Dying Light,Awesome game!,positive,steam_live,239140,True,1778442620,3434,ukrainian,0,0.5,True,False,False
+Dying Light,çook iyi,positive,steam_live,239140,True,1778442585,2496,turkish,0,0.5,True,False,False
+Dying Light,dünyanın değil evrenin en iyi oyunu,positive,steam_live,239140,True,1778440477,1382,turkish,0,0.5,True,False,False
+Dying Light,"OYUN ♥♥♥ GUZEL BOYLE BİŞİ YOK OYNAYIN AMK ELİN
+ZE SAGLIK YAPIMCILAR",positive,steam_live,239140,True,1778439518,2155,turkish,0,0.5,True,False,False
+Dying Light,Игра супер топчик,positive,steam_live,239140,True,1778438320,431,russian,0,0.5,True,False,False
+Dying Light,mega gierka<3,positive,steam_live,239140,True,1778436617,1244,polish,0,0.5,True,False,False
+Dying Light,"далбайобський паркур від долбойобських розрабів, в ігри грають такого плану грають аби всіх різать стрілять і убивать а не сидіть пів часа заліпать на труби долбойобські і думать а чи допригне цей гусь з тоі на іншу чи нє і тільки то і  робиш шо думаєш куда і як пригать",negative,steam_live,239140,False,1778436549,1029,ukrainian,0,0.5,True,False,False
+Dying Light,Melhor jogo já feito na categoria apocalipse zumbi e parkour.,positive,steam_live,239140,True,1778432011,1187,brazilian,0,0.5,True,False,False
+Dying Light,dropkicking babies and slicing heads off then i played dying light,positive,steam_live,239140,True,1778432000,1891,english,1,0.523809552192687988,True,False,False
+Dying Light,игра пушка только концовка тухлая,positive,steam_live,239140,True,1778431543,1358,russian,0,0.5,True,False,False
+Dying Light,"The most funniest combat gameplay I have ever laid my eyes upon. One second you're swinging a boat oar, the next you drop kick a zombie off a roof top. Would recommend.",positive,steam_live,239140,True,1778430557,526,english,0,0.5,True,False,False
+Dying Light,Жалко что они все арабы,positive,steam_live,239140,True,1778429880,332,russian,0,0.5,True,False,False
+Dying Light,game still holds up in 2026.,positive,steam_live,239140,True,1778429611,1349,english,0,0.5,True,False,False
+Dying Light,"на удивление реально хорошая игра про зомби, затягивает с пролога. В отличие от того же резика не надо всаживать всю обойму в одного зомбаря, графика для 2015 зaeбиcь, особенно на высоких настройках",positive,steam_live,239140,True,1778428551,672,russian,0,0.5,True,False,False
+Dying Light,i mean its scary fun,positive,steam_live,239140,True,1778428112,1882,english,0,0.5,True,False,False
+Dying Light,แนะนำเลยสำหรับคนที่ชอบแนวเลือดสาด และระบบปากัวแบบไหลหัวแตก,positive,steam_live,239140,True,1778426543,6762,thai,0,0.5,True,False,False
+Dying Light,"Parkour e matar zumbis, gostoso demais!",positive,steam_live,239140,True,1778425640,3006,brazilian,0,0.5,True,False,False
+Dying Light,zombiler arkadaşımı öldürüp öldürüp duruyor,positive,steam_live,239140,True,1778425581,1702,turkish,0,0.5,True,False,False
+Dying Light,good game,positive,steam_live,239140,True,1778425452,1141,english,0,0.5,True,False,False
+Dying Light,丧尸跑酷第一作,positive,steam_live,239140,True,1778424387,2702,schinese,0,0.5,True,False,False
+Dying Light,guzel degıl ♥♥♥ guzel,positive,steam_live,239140,True,1778423347,1237,turkish,0,0.5,True,False,False
+Dying Light,One of the best and fun zombie game out there,positive,steam_live,239140,True,1778422649,1856,indonesian,0,0.5,True,False,False
+Dying Light,"simplesmente o melhor jogo de zumbi, insubstituível dês de 2015, recomendo muito!!",positive,steam_live,239140,True,1778419604,3671,brazilian,0,0.5,True,False,False
+Dying Light,"Симулятор многоэтажек в Мурино, не хватает друна и ч, также и фога",positive,steam_live,239140,True,1778419189,1234,russian,0,0.5,True,False,False
+Dying Light,iconic,positive,steam_live,239140,True,1778418705,4256,english,0,0.5,True,False,False
+Dying Light,"O jogo é ótimo, mas pra ser excelente precisa obter as DLC's
+Principalmente a The Following
+aí sim
+jogão!",positive,steam_live,239140,True,1778418002,879,brazilian,0,0.5,True,False,False
+Dying Light,7777777,positive,steam_live,239140,True,1778417489,3022,koreana,0,0.5,True,False,False
+Dying Light,ужасная игра,negative,steam_live,239140,False,1778415642,543,russian,0,0.454545468091964722,True,False,False
+Dying Light,d,positive,steam_live,239140,True,1778414315,2874,turkish,0,0.5,True,False,False
+Dying Light,very bad game,negative,steam_live,239140,False,1778413685,354,english,0,0.41910901665687561,True,False,False
+Dying Light,peak,positive,steam_live,239140,True,1778413534,6226,thai,0,0.5,True,False,False
+Dying Light,Oynayin oynattirin,positive,steam_live,239140,True,1778412621,3489,turkish,0,0.5,True,False,False
+Dying Light,иииии зомбальний,positive,steam_live,239140,True,1778410836,2312,ukrainian,0,0.5,True,False,False
+Dying Light,fascynujaca,positive,steam_live,239140,True,1778405957,4653,polish,0,0.5,True,False,False
+Dying Light,"Hayatınızın aşkı gittiği zaman anlıyorsunuz onun gibi bir daha olmayacağını . Siz siz olun o gitmeden onu son bir defa  görün  çünkü o son görüşünüzdür . Göremezseniz eğer o hayatınızda yaptığınız hatalardan bir tanesi olur . Bizimle kal @mauroicardi bizimle kal ❤️ 🧡 
+konun alakası yok anı kalsın sadece",positive,steam_live,239140,True,1778405382,317,turkish,0,0.5,True,False,False
+Dying Light,任务指引弱，经常在一栋楼里迷路，主线工具人，僵尸血多武器垃圾，没有良好的游戏体验,negative,steam_live,239140,False,1778404778,337,schinese,0,0.476190477609634399,True,False,False
+Dying Light,总的来说剧情和画质都还不错，但是跑酷比较难，而且联机很卡,positive,steam_live,239140,True,1778401144,1905,schinese,0,0.5,True,False,False
+Dying Light,GOAT gra,positive,steam_live,239140,True,1778400248,1657,polish,0,0.5,True,False,False
+Dying Light,cool,positive,steam_live,239140,True,1778395502,1106,english,0,0.5,True,False,False
+Dying Light,"El mejor juego de zombis 10/10 recomendado junto con sus dlcs 
+hellraid es un poco aburrido y tedioso pero vale la pena completamente",positive,steam_live,239140,True,1778393982,4403,spanish,0,0.5,True,False,False
+Dying Light,Exceeded my expectations. Another game in my Classics. Definitely a must-play.,positive,steam_live,239140,True,1778393736,7337,english,0,0.5,True,False,False
+Dying Light,Dropkicking fussy children? 10/10,positive,steam_live,239140,True,1778384389,3258,english,2,0.54356849193572998,True,False,False
+Dying Light,шикарно,positive,steam_live,239140,True,1778383463,2312,russian,0,0.5,True,False,False
+Dying Light,저장도 제대로 안돼서 5시간 동안 한거 날아가서 다시함,negative,steam_live,239140,False,1778383125,830,koreana,0,0.5,True,False,False
+Dying Light,"Esta entretenido, la historia muy unica, DONDE MIERDA SE CONSIGUEN BALAS????",positive,steam_live,239140,True,1778382513,2431,latam,0,0.5,True,False,False
+Dying Light,"одна из лучших игр для меня, но достижения связанные с совместным режимом, это гг. Очень много недочетов например достижение последний выживший выполняется при прохождении в коопе стаю бозака победив друзей, но нигде не написано что что бы гарантированно получить его, нельзя быть хостом сети, до сих пор не разобрался с достижениями счастливая семерка (победить в 7 состязании друга)",positive,steam_live,239140,True,1778380031,6060,russian,0,0.5,True,False,False
+Dying Light,Really good game but it's very easy to get stuck at some places when you have no weapons. So watch out for that.,positive,steam_live,239140,True,1778379271,1510,english,0,0.5,True,False,False
+Dying Light,otimo,positive,steam_live,239140,True,1778376262,4595,brazilian,0,0.5,True,False,False
+Dying Light,gayet rahat ve güzel,positive,steam_live,239140,True,1778369451,660,turkish,0,0.5,True,False,False
+Dying Light,this game is good,positive,steam_live,239140,True,1778368375,1371,english,0,0.5,True,False,False
+Dying Light,este juego solo ya es arte pero con un pana o mas es PEAK,positive,steam_live,239140,True,1778368330,2646,latam,0,0.5,True,False,False
+Dying Light,cex,positive,steam_live,239140,True,1778366811,887,russian,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778366805,480,turkish,0,0.5,True,False,False
+Dying Light,when i was getting chased when the first sunset happened lowkey i ♥♥♥♥ my pants 6.7/10 would recommend,positive,steam_live,239140,True,1778365061,319,english,0,0.5,True,False,False
+Dying Light,...,positive,steam_live,239140,True,1778364907,2250,brazilian,0,0.5,True,False,False
+Dying Light,super!!!,positive,steam_live,239140,True,1778363406,3966,polish,0,0.5,True,False,False
+Dying Light,1,positive,steam_live,239140,True,1778363014,3962,russian,0,0.5,True,False,False
+Dying Light,крута,positive,steam_live,239140,True,1778357489,2432,russian,0,0.5,True,False,False
+Dying Light,"КЛЁВАЯ ИГРА, ОЧЕНЬ  ДИКО ЗАХВАТЫВАЕТ, ПОДОЙДЁТ ДЛЯ ТЕХ КТО ЛЮБИТ ПАРКУР И УБИВАТЬ ПОЛЧИЩУ ЗАМБЕЙ",positive,steam_live,239140,True,1778357182,3096,russian,0,0.5,True,False,False
+Dying Light,ЛУЧШАЯ,positive,steam_live,239140,True,1778356637,1467,russian,0,0.5,True,False,False
+Dying Light,)),positive,steam_live,239140,True,1778356201,3233,russian,0,0.5,True,False,False
+Dying Light,Great 5/5.,positive,steam_live,239140,True,1778354739,2627,english,0,0.5,True,False,False
+Dying Light,"Que jogo gostoso quanto na movimentação quanto em matar os zumbis. Sistema de parkour muito divertido muitas variedades de armas, tanto  armar de mão quanto as de fogo. Nunca esquecerei minha primeira noite tentanto correr sem ver nada para o ponto de safe mais proximo.",positive,steam_live,239140,True,1778354627,926,brazilian,0,0.5,True,False,False
+Dying Light,разрабы  ля олени сами сами гоняйте долбанный паркур и задания   х  чё пройдешь,positive,steam_live,239140,True,1778353932,13190,russian,0,0.476190477609634399,True,False,False
+Dying Light,Spoko gra fabularna ale gralem w duzo lepszych,positive,steam_live,239140,True,1778353901,844,polish,0,0.5,True,False,False
+Dying Light,нормуль,positive,steam_live,239140,True,1778352445,3277,russian,0,0.5,True,False,False
+Dying Light,:D,positive,steam_live,239140,True,1778352333,1742,brazilian,0,0.5,True,False,False
+Dying Light,Zajebista gra fabularna  dla początkujących z graniem. Sterowanie Bardzo dobre. Postacie są bardzo dobrze napisane. Grafika jak na 2015 rok nie jest zła. Ścieżka dzwiekowa jest zajebista. Levelowanie postaci mogło być gorsze. Fabuła Zajebista. Jest troche miejsc do eksploracji więc nie ma co sie nudzić. Ocena gry w skali od 1 do 10 to będzie mocna 9,positive,steam_live,239140,True,1778350451,3686,polish,0,0.5,True,False,False
+Dying Light,получай дурацкий зондбе,positive,steam_live,239140,True,1778349371,6042,russian,0,0.5,True,False,False
+Dying Light,MEJOR QUE GOLPEAR MUJERES,positive,steam_live,239140,True,1778348795,4805,latam,0,0.5,True,False,False
+Dying Light,Gece görevleri korkunç ama güzel oyun,positive,steam_live,239140,True,1778348298,489,turkish,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778344772,4196,schinese,0,0.5,True,False,False
+Dying Light,Gece Dışarda kalmıştım Amın evladı bi zombi beni kovaladı ondan sonra kalp hastalığım çıktı,positive,steam_live,239140,True,1778344652,598,turkish,0,0.5,True,False,False
+Dying Light,Top demais,positive,steam_live,239140,True,1778344348,8972,brazilian,0,0.5,True,False,False
+Dying Light,Misto,positive,steam_live,239140,True,1778344309,3677,romanian,1,0.523809552192687988,True,False,False
+Dying Light,Mantab,positive,steam_live,239140,True,1778343162,1659,english,0,0.5,True,False,False
+Dying Light,"Dying Light est un superbe jeu, que ce soit en solo ou en coopération avec un ami. L’ambiance est particulièrement pesante et réussit parfaitement à plonger le joueur dans cet univers rempli de zombies et de dangers. L’histoire est mémorable, mais ce qui rend le jeu encore meilleur, c’est tout ce qu’il propose autour de sa campagne principale.
+
+La map ouverte est grande et remplie d’activités : défis, parcours en parkour, exploration, combats contre les zombies… Il y a toujours quelque chose à faire et le jeu reste constamment amusant à parcourir. Le système de déplacement est excellent et rend chaque session vraiment dynamique.
+
+Le DLC apporte aussi énormément au jeu avec l’ajout des véhicules, ce qui change complètement la manière de jouer et d’explorer la map. Les nids de rapaces, les sorties nocturnes avec davantage d’XP à gagner, mais aussi le risque permanent de se faire poursuivre si l’on se fait repérer, rendent l’expérience encore plus intense et stressante. Franchement, tout cela est magistral, surtout en coopération.",positive,steam_live,239140,True,1778342058,1293,french,0,0.5,True,False,False
+Dying Light,el mejor juego,positive,steam_live,239140,True,1778340401,4304,spanish,0,0.5,True,False,False
+Dying Light,Legal :),positive,steam_live,239140,True,1778339955,1790,brazilian,0,0.5,True,False,False
+Dying Light,"剧情拉胯，主线体验很差，反派像傻逼，队友也死的像傻逼
+没有存档功能退出重进返回上一个任务转折点或者安全屋。
+交互键不敏感，游戏动画大于一切，开箱开锁必须看动画然后怪在后面挠你而且动画时间长。
+技能加点不能重置，扫码的蹬墙跳害死我不下十次，每次死了任务点又刷新
+还有扫码的拐角boomer真扫码，点满体质一样炸死
+游戏优化差，5060 一百来帧怪一多还不到一百帧，找解决方法降画质才到两百帧
+没有传送点，全靠腿跑图 新旧陈区玩到目前也没有直接的传输点，我靠地狱突袭dlc战役才能传送 
+背包空间设置不合理，弹药只能捡步枪180 手枪82，多了捡不下也放不了安全区背包
+支线设计垃圾，基本就是帮人跑腿打怪。",positive,steam_live,239140,True,1778339903,2284,schinese,0,0.5,True,False,False
+Dying Light,游戏挺好玩的，就是太吓人了我打完主线就不玩了,positive,steam_live,239140,True,1778334530,1339,schinese,1,0.516129076480865479,True,False,False
+Dying Light,"Absolutely legendary zombie game, basically a classic at this point. 
+
+-Gameplay. One of the best I've ever had an honor to experience. Melee combat is great and juicy, gunplay isn't that great, but it gets a pass. Parkour is outstanding, definitely one of the best there is. Leveling is surprisingly good, most of the perks are great and you really want to level up. Also I really recommend to complete the game solo and in coop. Coop is absolutely great here(Well, it was basically designed with the coop in mind).
+
+-Story it's ok. I don't really care about the cast, they are not that  great, but protagonist and antagonist are actually good and it's interesting to listen to them. Rais(antagonist) actually has a lot of  funny bits of dialogue, so It's worth to play just to listen to them. I want to give cudos to voice actors, cause their work really elevates the experience, especially Crane''s. Side quests are not that special, you will mostly do them for the experience points.
+
+-OST. There aren't any tracks that are really memorable, but they set the atmosphere and do their job, so no complaints here.
+
+-Graphics. A bit outdated, but zombies' art direction is great and atmosphere(especially in the prologue) is outstanding. Beginning of the game is just another experience entirely, because you are actually afraid of zombies and a night. Later you become an overpowered beast, and it's great, but it's another experience.
+
+-Technical Issues. Didn't experience any issues. It runs great, and maybe I've seen a couple of serious bugs, but it usually resolves by a restart.
+
+10/10, masterpiece of a game. Also I want to give my thanks to the developers for still supporting the game after all these years. Buy for the full price with the friend and enjoy.",positive,steam_live,239140,True,1778333811,5743,english,1,0.523809552192687988,True,False,False
+Dying Light,Meh işte,positive,steam_live,239140,True,1778332989,61,turkish,0,0.5,True,False,False
+Dying Light,"Нашёл актуальный дюп в 2026 : 
+По старой схеме отправляем 1 предмет в хранилище ; 
+Выбираем вверху рюкзака вещь в наибольшем количестве , через которую будем размножать ;
+Убеждаемся - что при входе в хранилище стрелка будет на именно той вещи и выделяем её ;
+Выходим из хранилища и : 1 раз тыкаем войти в хранилище и через 0.1 - 0.2 сек как молния тыкаем лкм+пкм один раз . У меня получается с первого раза почти всегда - нашёл этот вариант всего за 2.5 часа .",positive,steam_live,239140,True,1778329959,939,russian,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778325817,1390,polish,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778324739,207,english,0,0.5,True,False,False
+Dying Light,güzel oyun,positive,steam_live,239140,True,1778324222,921,turkish,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778323229,424,spanish,0,0.5,True,False,False
+Dying Light,PARKOUR,positive,steam_live,239140,True,1778320550,2558,english,0,0.5,True,False,False
+Dying Light,топ сюжетка,positive,steam_live,239140,True,1778319202,645,russian,1,0.5,True,False,False
+Dying Light,i played this with my friend and it ran smoothly on our pc,positive,steam_live,239140,True,1778317955,1645,english,0,0.5,True,False,False
+Dying Light,POLECAM!,positive,steam_live,239140,True,1778315043,1744,polish,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778313256,6294,italian,0,0.5,True,False,False
+Dying Light,"лучшая,,без комментариев",positive,steam_live,239140,True,1778311688,2276,russian,1,0.5,True,False,False
+Dying Light,Still a great game to this day. I loved playing as a kid. Between my Steam and Playstations I have around 4000 hours in total. The story is ♥♥♥♥♥♥♥ awesome.,positive,steam_live,239140,True,1778309474,5577,english,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778301736,858,english,0,0.5,True,False,False
+Dying Light,best zombie game to ever exist me boi crane is so awsome sauce,positive,steam_live,239140,True,1778299133,10934,english,0,0.5,True,False,False
+Dying Light,игра очень крутая иза очень крутово   оружия,positive,steam_live,239140,True,1778296559,2483,russian,1,0.5,True,False,False
+Dying Light,"buen juego me gusto mucho, lo unico malo que veo es que una vez que pasas de mapa es casi inecesario volver al primer mapa aunque me gustaria que hubiese de vez en cuando alguna mision secundaria ahi",positive,steam_live,239140,True,1778283746,4845,spanish,0,0.5,True,False,False
+Dying Light,"Из всех частей Dying Light эта — моя любимая. По нескольким причинам:
+1. В первой части чувствуется та самая атмосфера угнетения и мёртвого города, что подкрепляется прекрасным саундтреком.
+2. Как я и сказал ранее, саундтрек в этой игре прекрасен, его можно переслушивать бесконечно, особенно трек «Horizon».
+3. Боёвка здесь необычная. Если сравнить со второй частью Dying Light, где надо просто закликивать врага, здесь она более реалистичная. Например, если подойти к противнику в упор, Крейн не сможет пронзить его оружием и будет бить сбоку. А если чуть-чуть отойти и ударить по шее, то с большим шансом голова отлетит.
+4. Ну и последнее — это паркур. Он здесь классный, им вы будете пользоваться почти всегда, чтобы обходить кучи зомби и пробираться в труднодоступные места. Игра, по мне, прямо топ. Хоть она и 2015 года выпуска, всё равно очень крутая.",positive,steam_live,239140,True,1778283550,5169,russian,1,0.5,True,False,False
+Dying Light,"Don't mind the low playtime. The last playthrough I did was when I lost my internet and it counted none of my playtime, despite completing the main game/the Following.
+
+Honestly the core game is good, but only if you want to deal w/ a LOT of the unfun jank and suspect design decisions associated w/ it. Running around and parkouring? Phenomenal. Actually ♥♥♥♥♥♥♥ fighting ♥♥♥♥? Miserable early on, especially on Hard/Nightmare. Enemies will stand there and soak attacks for days, to the point where you have to ask ""why do I even get weapons?""
+
+The worst part? Dying Light 2 (after the numerous fixes made to DL2; it was not good at launch lmao) solves a lot of this, but at the cost of the vibes, which are immaculate here, but pretty milquetoast over there. So now you have to choose: do you want a seamlessly fun game where the difficulty and hurdles don't feel unintended or poorly telegraphed? Well, you have to play the ""worse"" DL game because Villador feels so flaccid by comparison to Harran. Do you want the immaculate vibes of Harran? Well, you have to play the ""worse"" DL game because DL1's gameplay outside the parkour is kinda ass.
+
+Please, God, make DL3 a genuinely great game, better than DL1/2/The Beast (which is more or less DL2.5).
+
+EDIT: Having played more of it, because the vibes ARE that good... this game is even worse than I remember. Nightmare isn't hard, it's tedious, then it's braindead once you get a gun and some ammo (which vendors sell in bulk). Enemies are STILL taking like 10 - 20 headshots to kill w/ the weapons that are dropping for me, even after they've been souped up, and the sidequests, though somewhat entertaining (a few, at least), are an absolute ♥♥♥♥♥♥♥ chore. Also, literally every mfer who dies in the main story deserves to die. They are ♥♥♥♥♥♥♥ insufferable. Crane is literally the only person of mildly sound mind in a city of idiots and walking plot contrivances. The fact that people ♥♥♥♥♥ about DL2's story but label DL1's as ""mediocre"" tells me that rose coloured glasses helped this game IMMENSELY, because this ♥♥♥♥ is as bad if not worse than DL2 I'm ngl LMAO
+
+EDIT 2: Also, whoever designed the Tahir boss fight, I hope you step on a Lego every morning. And never touch another boss fight ever again.",negative,steam_live,239140,False,1778279579,1772,english,2,0.5,True,False,False
+Dying Light,"20/10 god nose, no me lo pase aun",positive,steam_live,239140,True,1778278058,1002,spanish,0,0.5,True,False,False
+Dying Light,"Jogo bom de parkour com zumbi, não tem nada a reclamar",positive,steam_live,239140,True,1778277653,1900,brazilian,0,0.5,True,False,False
+Dying Light,.,negative,steam_live,239140,False,1778276727,2838,czech,0,0.5,True,False,False
+Dying Light,mega gierka,positive,steam_live,239140,True,1778275656,9585,polish,1,0.523809552192687988,True,False,False
+Dying Light,Harika bir hikaye,positive,steam_live,239140,True,1778272550,1210,turkish,0,0.5,True,False,False
+Dying Light,BUEN JUEGO,positive,steam_live,239140,True,1778268776,3865,spanish,0,0.5,True,False,False
+Dying Light,ОК,positive,steam_live,239140,True,1778263186,1570,ukrainian,1,0.5,True,False,False
+Dying Light,"У меня на зондбе в доте 50 игр, почти тоже самое в принципе. Топчик",positive,steam_live,239140,True,1778263143,1450,russian,0,0.5,True,False,False
+Dying Light,"---{Graphics}---
+☐ You forget what reality is
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Free Fire
+
+---{Gameplay}---
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}---
+☐ Just press 'W'
+☑ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ No Story
+☐ Some lore
+☐ Average
+☑ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☑ Not bad duration ( 12 - 20 hours)
+☐ Long ( 20 - 50 hours)
+☐ Too long ( 50 - 100 hours)
+☐ Endless
+
+---{Price}---
+☐ It’s free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ The game itself is a big terrarium for bugs
+
+---{90/100}---",positive,steam_live,239140,True,1778255977,3949,russian,1,0.476190477609634399,True,False,False
+Dying Light,еее,positive,steam_live,239140,True,1778255922,774,russian,1,0.5,True,False,False
+Dying Light,好玩,positive,steam_live,239140,True,1778253857,1989,schinese,0,0.5,True,False,False
+Dying Light,я даже в the forest так не дюпал как здесь,positive,steam_live,239140,True,1778249685,5854,russian,1,0.523809552192687988,True,False,False
+Dying Light,蛮好玩的,positive,steam_live,239140,True,1778247675,1214,schinese,0,0.5,True,False,False
+Dying Light,зомбе,positive,steam_live,239140,True,1778244299,758,russian,0,0.5,True,False,False
+Dying Light,♥♥♥♥♥,positive,steam_live,239140,True,1778244247,3583,russian,0,0.5,True,False,False
+Dying Light,"Отличная игра. Немного хорора, хорошая боевка, сюжет, открытый мир и отличное дополнение с машиной. Крч всем советую поиграть",positive,steam_live,239140,True,1778239173,2210,russian,0,0.5,True,True,False
+Dying Light,very GOOD,positive,steam_live,239140,True,1778236221,1353,schinese,0,0.5,True,False,False
+Dying Light,[h1] The Crane dropkicks anything he sees [/h1],positive,steam_live,239140,True,1778232997,2610,english,1,0.523809552192687988,True,False,False
+Dying Light,值得一玩，剧情可以,positive,steam_live,239140,True,1778227884,1035,schinese,0,0.5,True,False,False
+Dying Light,:),positive,steam_live,239140,True,1778218436,1537,spanish,0,0.5,True,False,False
+Dying Light,"Играл бы и дальше,но сейв сбросился перед битвой с матерью:(",positive,steam_live,239140,True,1778217621,2470,russian,0,0.5,True,False,False
+Dying Light,The best zombie game ever made with the best main character 🔥🔥🔥,positive,steam_live,239140,True,1778205094,14429,french,0,0.5,True,False,False
+Dying Light,siempre vi a mis youtuber favoritos jugar ahora que puedo lo gosare,positive,steam_live,239140,True,1778200634,4820,spanish,0,0.5,True,False,False
+Dying Light,aaaaaaa,positive,steam_live,239140,True,1778197818,916,turkish,0,0.5,True,False,False
+Dying Light,"[b]Dying Light — это когда днем ты чувствуешь себя королем паркура, а ночью позорно убегаешь от прыгунов с криками.[/b]
+
+Если коротко по впечатлениям:
+— [b]Паркур:[/b] Реально лучший. Когда вкачиваешь пару скиллов, начинаешь летать по крышам как Человек-паук.
+— [b]Ночь:[/b] Давно мне не было так стремно просто дойти до безопасной зоны. Атмосфера 10/10.
+— [b]Боевка:[/b] Очень сочная. Ломать зомби кости трубой или битой с гвоздями не надоедает вообще.
+
+Сюжет обычный, но геймплей тащит всё. В коопе с друзьями вообще угар. Если любите зомби-тематику и нормальный экшен — берите, не пожалеете.
+
+[b]10 отложенных кирпичей из 10 за первую ночь.[/b]",positive,steam_live,239140,True,1778195492,83,russian,0,0.5,True,False,False
+Dying Light,Симулятор курьера,positive,steam_live,239140,True,1778193807,1495,russian,0,0.5,True,False,False
+Dying Light,meh,positive,steam_live,239140,True,1778193738,72,spanish,0,0.5,True,False,False
+Dying Light,the game play is amazing the flow of the game the people in the game id say the only flaws are the f bombs and a little bite of the gore but mostly not love it,positive,steam_live,239140,True,1778192178,2093,english,0,0.5,True,False,False
+Dying Light,kyle crane,positive,steam_live,239140,True,1778191209,1342,english,1,0.523809552192687988,True,False,False
+Dying Light,super,positive,steam_live,239140,True,1778191052,984,turkish,0,0.5,True,False,False
+Dying Light,"Best Zombie Game Of All Time, Open World, Satisfying Gameplay, Fun Easter Eggs & Plenty Of Content To Enjoy, Also It Made My Career So Yea",positive,steam_live,239140,True,1778190235,2258,english,0,0.5,True,False,False
+Dying Light,very intresting game,positive,steam_live,239140,True,1778188514,1559,english,0,0.5,True,False,False
+Dying Light,İban atın bi 5 dolar daha yolliyim,positive,steam_live,239140,True,1778187722,708,turkish,0,0.5,True,False,False
+Dying Light,On numara oyun,positive,steam_live,239140,True,1778187502,2098,turkish,0,0.5,True,False,False
+Dying Light,Zombie,positive,steam_live,239140,True,1778187450,2083,english,0,0.5,True,False,False
+Dying Light,"щас как взбрызну
+пик игра играю с 7 лет",positive,steam_live,239140,True,1778185855,1356,english,0,0.5,True,False,False
+Dying Light,"Скачал игру - Обосрался
+Встретил Зомби - Обосрался
+Наступила Ночь - Обосрался
+Встретил Прыгуна - Сделал Кирпичный Завод",positive,steam_live,239140,True,1778182429,1186,russian,0,0.5,True,False,False
+Dying Light,"Ignore my time, I have played this game for countless hours on console long before I got a PC. This is one of my favorite games and best zombie game. Easily better than the second game, and just barely beats the Beast (though that one is also good) for me because of its maps and more interesting safehouses where I feel like I could actually live. Back when I got an 8th generation console this was the first game I wanted to get after it didn't release on the 360 and was not disappointed.",positive,steam_live,239140,True,1778181164,356,english,0,0.5,True,False,False
+Dying Light,Gejowska Apokalipsa Zombie,positive,steam_live,239140,True,1778180893,1904,polish,0,0.5,True,False,False
+Dying Light,mükemmel,positive,steam_live,239140,True,1778177685,1262,turkish,0,0.5,True,False,False
+Dying Light,perfect for those who like killing zombies and running around in open world games,positive,steam_live,239140,True,1778174257,5312,english,0,0.5,True,False,False
+Dying Light,егор пидор,positive,steam_live,239140,True,1778172761,4605,russian,0,0.5,True,False,False
+Dying Light,Норм игра,positive,steam_live,239140,True,1778172188,336,russian,0,0.5,True,False,False
+Dying Light,Симулятор выживания в ПГТ. 10 из 10,positive,steam_live,239140,True,1778171924,387,russian,0,0.5,True,False,False
+Dying Light,one of the greats,positive,steam_live,239140,True,1778170861,2177,english,0,0.5,True,False,False
+Dying Light,ㅤ,positive,steam_live,239140,True,1778169935,1803,russian,0,0.5,True,False,False
+Dying Light,十年依旧能打,positive,steam_live,239140,True,1778168994,1924,schinese,0,0.5,True,False,False
+Dying Light,"Its a good game that i ignored for way~ too long. 
+
+The only things i disliked is the writing ( on occasion ) and the 'forced loadout' we have at boss fights . . . but over all, i can see why this game became a cult classic after it released.",positive,steam_live,239140,True,1778166879,3231,english,0,0.5,True,False,False
+Dying Light,"i cant believe they changed the character in dying light 2, had me spitting pure slurs. especially since my ♥♥♥♥♥♥ pc cant run dying light the beast. im like an addict going through rehab, i want to continue, but i cant.",positive,steam_live,239140,True,1778165095,3447,english,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778165068,1687,turkish,0,0.5,True,False,False
+Dying Light,кайф,positive,steam_live,239140,True,1778164897,1633,russian,0,0.5,True,False,False
+Dying Light,Worth on sale,positive,steam_live,239140,True,1778163282,684,english,0,0.5,True,False,False
+Dying Light,"This game is amazing, if you manage to sequence it right the parkour aspect of the game is extremely satisfing. Weapon combat is great, use the bow... the hand combat is great and has a great balance. Zombie mechanics is the best part, the movement seems very natural, as soon as you start figting a group near by zombies hear you and begin appraoching, couple of seconds later you are surrounded and begin strugguling to survive. 
+
+Quests and main story are awesome, they have some repetition to them but cmon thats how it would look in a world like that. 
+
+stronly recommend.",positive,steam_live,239140,True,1778158733,3802,english,0,0.5,True,False,False
+Dying Light,Bueno que decir de este juegazo que no hayan dicho ya? Totalmente recomendable y por lejos el mejor. El que mas me entretuvo ! Mucho mas que el 2 y el 3.,positive,steam_live,239140,True,1778157446,4253,spanish,6,0.596731424331665039,True,False,False
+Dying Light,太好玩了 可玩性很高 剧情好 我十分推荐游玩,positive,steam_live,239140,True,1778156736,1679,schinese,0,0.5,True,False,False
+Dying Light,"Real ""Dead Island 2""",positive,steam_live,239140,True,1778156348,1595,english,0,0.5,True,False,False
+Dying Light,кайф игра,positive,steam_live,239140,True,1778153294,755,russian,0,0.5,True,False,False
+Dying Light,one of the best zombie games PERIOD!!,positive,steam_live,239140,True,1778150372,1627,english,0,0.5,True,False,False
+Dying Light,好玩,positive,steam_live,239140,True,1778148360,6743,schinese,0,0.5,True,False,False
+Dying Light,神作无疑,positive,steam_live,239140,True,1778139989,27188,schinese,0,0.5,True,False,False
+Dying Light,"Dying Light — культовый зомби-экшен от первого лица, делающий упор на паркур, ближний бой и динамичную смену дня/ночи. Давно пройдено и рекомендовано.",positive,steam_live,239140,True,1778138445,1681,russian,0,0.490654200315475464,True,False,False
+Dying Light,虽然这是一款老游戏，但是内容真的不差，剧情做的很好，值得花时间好好了解。游戏支持PVE，PVP（玩家扮演丧尸对战玩家）。有朋友一起玩的话很好玩，搜东西打丧尸升级武器，可以长时间游玩，因为内容很多，有多张地图。游戏内外挂玩家很多，想要游戏体验就不要随便进入高等级玩家的地图，不然就没意思了,positive,steam_live,239140,True,1778137746,2258,schinese,0,0.5,True,False,False
+Dying Light,"Un juego realmente increible, parkour y combate en una medida increible 10/10",positive,steam_live,239140,True,1778131562,9264,spanish,0,0.5,True,False,False
+Dying Light,"[h1]8[/h1]
+A game from 2015 better than most games released in the last 10 years",positive,steam_live,239140,True,1778127386,4196,english,0,0.5,True,False,False
+Dying Light,IT IS PEAK,positive,steam_live,239140,True,1778125192,2874,english,0,0.5,True,False,False
+Dying Light,"I love the slightly different take on a zombie game. The heavy parkour element makes it stand out a lot. Sadly the campaign is pretty short, only took me 15 hours to beat but if you grab it on sale then can't complain!",positive,steam_live,239140,True,1778122506,938,english,1,0.523809552192687988,True,False,False
+Dying Light,acayip begendim solo final olmasa dah iyidi,positive,steam_live,239140,True,1778120395,1549,turkish,0,0.5,True,False,False
+Dying Light,nice,positive,steam_live,239140,True,1778113788,288,english,0,0.5,True,False,False
+Dying Light,jogo zica dms,positive,steam_live,239140,True,1778112430,946,brazilian,0,0.5,True,False,False
+Dying Light,BOM PRA CARALHO,positive,steam_live,239140,True,1778108564,3700,brazilian,0,0.5,True,False,False
+Dying Light,very good,positive,steam_live,239140,True,1778106996,679,english,0,0.5,True,False,False
+Dying Light,bastan sona sevgilimle bitirdim ve baya ozleyecegim.  hikayesi ve sonu çok iyi değildi.,positive,steam_live,239140,True,1778105974,3330,turkish,2,0.545454561710357666,True,False,False
+Dying Light,"Saugeiles Game!!!!! Empfehle ich jedem weiter der Survival Games mag!!!
+unbedingt runterladen",positive,steam_live,239140,True,1778105646,724,german,1,0.523809552192687988,True,False,False
+Dying Light,КРЕЙН,positive,steam_live,239140,True,1778101884,1863,russian,0,0.5,True,False,False
+Dying Light,xd,positive,steam_live,239140,True,1778098418,1134,spanish,0,0.5,True,False,False
+Dying Light,Very fun game good story I would recommend.,positive,steam_live,239140,True,1778097972,2588,english,0,0.5,True,False,False
+Dying Light,jogo pra joga com os amigos insano,positive,steam_live,239140,True,1778097630,35,english,0,0.5,True,False,False
+Dying Light,"I rate it, I remember pre-ordering this from EB and sitting through all the delays.. great game, fun to beat up zombies and jump off roofs.. even better with mates!",positive,steam_live,239140,True,1778097582,6678,english,0,0.5,True,False,False
+Dying Light,"the best zombie game ever, had almost 200hrs on this game, BUT in epic games HUGE MISTAKE, ♥♥♥♥ EPIC GAMES HOW DOES THE ♥♥♥♥♥♥♥ CLOUD STORAGE GET CORRUPTED, ♥♥♥♥ EPIC GAMES",positive,steam_live,239140,True,1778093778,2542,english,0,0.5,True,False,False
+Dying Light,"no zajebioza
+pozdrawaim serdecznie",positive,steam_live,239140,True,1778091551,2983,polish,0,0.5,True,False,False
+Dying Light,Lovely.,positive,steam_live,239140,True,1778091011,1188,english,0,0.5,True,False,False
+Dying Light,+rep,positive,steam_live,239140,True,1778090986,4743,english,0,0.5,True,False,False
+Dying Light,.,positive,steam_live,239140,True,1778089541,254,russian,0,0.5,True,False,False
+Dying Light,MT BOM VC NAO VAI SE ARREPENDER,positive,steam_live,239140,True,1778089069,7984,brazilian,0,0.5,True,False,False
+Dying Light,"Сначала это хорор, потом тоже хорор, но для зомби. 10 пиздюлей от прыгунов из 10",positive,steam_live,239140,True,1778088588,1580,russian,0,0.5,True,False,False
+Dying Light,"В принципе игра очень хорошая, но сюжет в ней довольно слабый. В нём много лишней драматичности, я бы сказал много лишних смертей, персонажей почти не раскрывают и поэтому их смерть не вызывает эмоций. Я бы оценил его на 7 из 10 , если вы хотите глубокий сюжет то эта игра может не понравиться . Лично для меня ещё является недостатком то что только ближе к концу игры я могу на равных сражаться с зомби из за очень долгой прокачки . В принципе остальное в норме , доп квестов очень много, по моим ощущениям около 100 . Боёвка хороша , но только спустя долгое время , зато потом она прямо доставляет удовольствие . Главная фишка игры - паркур тоже на высоте , в целом игра понравилась , но лично для меня она раскрывается только спустя время.",positive,steam_live,239140,True,1778088362,1677,russian,0,0.5,True,False,False
+Dying Light,имба,positive,steam_live,239140,True,1778086288,1844,russian,0,0.5,True,False,False
+Dying Light,"база,знать надо",positive,steam_live,239140,True,1778081691,1467,russian,0,0.5,True,False,False
+Dying Light,我玩过最伟大的丧尸游戏,positive,steam_live,239140,True,1778078093,3921,schinese,0,0.5,True,False,False
+Dying Light,说实话，这辈子都没想过有朝一日我竟然会玩消光,positive,steam_live,239140,True,1778077702,2017,schinese,0,0.5,True,False,False
+Dying Light,много зомби,positive,steam_live,239140,True,1778077025,905,russian,0,0.5,True,False,False
+Dying Light,лучшая игра 2015,positive,steam_live,239140,True,1778075633,2221,russian,0,0.5,True,False,False
+Dying Light,"По истине легендарная игра. Лучшая в 2015 году по гемплею, графике и сюжету",positive,steam_live,239140,True,1778074143,1585,russian,0,0.5,True,False,False
+Dying Light,Better than sex,positive,steam_live,239140,True,1778071622,3012,english,0,0.5,True,False,False
+Dying Light,"A really great game to try if you are interested in open-world games, parkour and slicing heads of Zombies. As a person who got 100% in this game, I would definitely say that every minute spend in this game was fun and scary asf.",positive,steam_live,239140,True,1778067558,4193,english,0,0.5,True,False,False
+Dying Light,parkour and story i mean no words best zombie game i played and the night experience this game is special place in my heart,positive,steam_live,239140,True,1778065564,3111,english,0,0.5,True,False,False
+Dying Light,"I remember really liking this game in its first few hours, and the first time I experienced the atmosphere at night time or in one of the quarantine zones was unparalleled. But then it just kept going on and on and on. By the end I just wanted it to be over. One should feel no shame in abandoning this game before seeing it through to the credits. This is one of those times I wish I could give a ""thumbs sideways"" rating as opposed to the usual positive or negative.",positive,steam_live,239140,True,1778062364,3230,english,0,0.5,True,False,False
+Dying Light,0/10 game cant seduce the volatiles,positive,steam_live,239140,True,1778046149,1222,english,0,0.5,True,False,False
+Dying Light,"《消逝的光芒》Dying Light，是丧尸开放世界+第一人称跑酷+昼夜恐怖循环的标杆之作，至今仍是同类游戏的天花板，适合喜欢跑酷、近战爽感与末日氛围的玩家 。
+ 
+核心优点
+ 
+- 跑酷体验顶级，流畅度拉满
+第一人称飞檐走壁、攀爬跳跃一气呵成，上手易、深度足；屋顶穿梭甩开尸潮，爽感独一无二 。
+- 昼夜循环改变玩法，恐怖感十足
+白天搜集、跑酷、清弱丧尸；入夜后“夜魔”（Volatile）出没，速度快、伤害高，必须躲安全屋或极限逃生，紧张感直接拉满 。
+- 近战打击感炸裂，武器系统丰富
+钝器/锐器/枪械手感扎实，断肢、爆头、血溅效果夸张；武器可搜刮+打造+附魔+耐久度管理，神器（如K刀）一刀一个，后期可玩成“爽游”。
+- 开放世界内容扎实，重复游玩价值高
+哈兰城地图紧凑、细节足，支线有深度、有道德抉择；跑酷挑战、解谜、彩蛋、DLC（如《信徒》）量大质高，百小时不重样。
+- 4人联机合作，乐趣翻倍
+可随时加入/退出，一起跑酷、刷装备、打Boss、闯暗区，容错更高、欢乐更多 。
+ 
+️ 明显缺点
+ 
+- 剧情中规中矩，老套无惊喜
+主线是“特工找病毒+人性抉择”，套路化、角色单薄、反转好猜，属于“能玩但记不住”的水平 。
+- 前期难度陡峭，新手易劝退
+开局资源少、武器脆、丧尸强、夜魔秒杀；死了回最近安全屋，跑酷失误惩罚重 。
+- 后期玩法略单调，刷刷刷明显
+成型后（神装+满技能），白天割草、晚上躲夜魔，重复跑图刷材料；快速传送少，长距离跑路多。
+- 优化与小Bug，十年仍有残留
+老机器可能掉帧、卡顿；偶发穿墙、卡模型、安全屋刷丧尸、昼夜卡死等问题，需重启解决。
+ 
+总评与适合人群
+ 
+总分：8.5/10（经典神作，瑕不掩瑜）
+- 一句话总结：跑酷+丧尸+昼夜恐怖的巅峰融合，玩法扎实、氛围到位、联机好玩，剧情和后期重复度是主要短板 。
+- 适合：喜欢《镜之边缘》跑酷、《死亡岛》近战、末日求生、联机合作的玩家。
+- 不适合：怕高、晕3D、讨厌丧尸、追求深度剧情、讨厌刷刷刷的玩家。
+ 
+对比与选购建议
+ 
+- 同系列：1代（2015）> 2代（2022）> 困兽（2025）；1代昼夜恐怖最强、跑酷最纯粹 。
+- 入手建议：先玩1代+《信徒》DLC，折扣时极低；喜欢再入2代或等《困兽》完整版 。",positive,steam_live,239140,True,1778044930,4711,schinese,0,0.5,True,False,False
+Dying Light,good,positive,steam_live,239140,True,1778043816,781,english,0,0.5,True,False,False
+Dying Light,"i have possibly thousands of hours on this game on playstation but since i built a pc i thought i would try it.
+to anyone who is hesitant on getting this game i highly recommend you do, this is THE best zombie game and it will change your perspective of a good game is (give it some time, it will get better as you gain skills).",positive,steam_live,239140,True,1778042984,557,english,0,0.5,True,False,False
+Dying Light,"One of my favorite games, very fun and I highly recommend.",positive,steam_live,239140,True,1778041592,1984,english,0,0.5,True,False,False
+Dying Light,"Jumped over a car and dropkicked 3 zombies off of a bridge, and then blew up 20 more with an explosive barrel. Hell yeah.",positive,steam_live,239140,True,1778038787,1236,english,0,0.5,True,False,False
+Dying Light,跑图很无聊 但是末日感很足 也值得推荐 剧情也可以,positive,steam_live,239140,True,1778038062,642,schinese,0,0.5,True,False,False
+Dying Light,still one of the best game's to play till this day,positive,steam_live,239140,True,1778037877,1592,english,0,0.5,True,False,False
+Dying Light,buenisimo,positive,steam_live,239140,True,1778036819,484,spanish,0,0.5,True,False,False
+Dying Light,"Que jogo good, mesmo depois de 10 anos continua incrível",positive,steam_live,239140,True,1778036689,835,brazilian,0,0.5,True,False,False
+Dying Light,Mundo abierto donde exploras mediante parkour rodeado de hijos de p...s y zombies a los cuales puedes hacerles brutalitys,positive,steam_live,239140,True,1778031767,3342,spanish,2,0.537091970443725586,True,False,False
+Dying Light,⠀,positive,steam_live,239140,True,1778029056,1399,english,0,0.5,True,False,False
+Dying Light,Aged well.,positive,steam_live,239140,True,1778020206,1395,english,2,0.525323629379272461,True,False,False
+Dying Light,Truly a 10/10 game.,positive,steam_live,239140,True,1778019294,12834,english,0,0.5,True,False,False
+Dying Light,muito top adoro sair na rua decapitando zumbis e pulando parkour,positive,steam_live,239140,True,1778014551,1788,brazilian,0,0.5,True,False,False
+Dying Light,"хорошая игра с классным сюжетом, советую всем кто не играл сыграть, купил всего за 200 рублей во время скидок, как и говорил там хороший сюжет, открытый мир, отличная графика для 2015 года",positive,steam_live,239140,True,1778014178,133,russian,0,0.5,True,False,False
+Dying Light,مثل الطفي مابكيت,negative,steam_live,239140,False,1778012977,687,english,0,0.476190477609634399,True,False,False
+Dying Light,jebać tą gre,positive,steam_live,239140,True,1778011361,480,polish,0,0.5,True,False,False
+Dying Light,"()
+==========
+()
+güzel",positive,steam_live,239140,True,1778009881,1171,turkish,0,0.5,True,False,False
+Dying Light,es un juego de 2 en 1 de dia es un gran juego de zombis y de noche es un juego de terror que te cagas en las patas,positive,steam_live,239140,True,1778009871,6087,spanish,0,0.5,True,False,False
+Dying Light,"Игра очень крутая. Бегать по крышам, бить зомби ногами, резать их самодельным оружием — на ура. Ночью реально страшно. Сюжет нормальный, мир живой.
+Но последний бой с Раисом — это просто жесть как разочаровал. Весь финал свели к каким-то кнопкам, драке на клинках без нормального экшена. Я ждал реальной рубки, а получил непонятно что. Обидно, блин.
+Но из-за одной драки игру не бросайте. 99% времени вы будете получать кайф. Просто к концу сбавьте ожидания.",positive,steam_live,239140,True,1778008798,3240,russian,0,0.5,True,False,False
+Dying Light,С детства спиратил её и проходил а щас смог позволить себе её ещё и в дефинете эдишен моя микроволновка тянет 10 ударов ногой из 10,positive,steam_live,239140,True,1778008391,1504,russian,0,0.5,True,False,False
+Dying Light,"Amazing, my game of the year!",positive,steam_live,239140,True,1778007983,1938,english,0,0.5,True,False,False
+Dying Light,Great game,positive,steam_live,239140,True,1778007305,198,english,0,0.5,True,False,False
+Dying Light,abi menü müziği için bile direkt alınır bekleme çek zaten uygun olm,positive,steam_live,239140,True,1778003237,5360,turkish,0,0.5,True,False,False
+Dying Light,"10 years of this game release and the game still kicks hard. Even though the game is just a copy paste of other zombie apocolypse games, this game stick close to my heart. The campain is long, but gripping. It took me a month to finish the main story. And along with the anniversary pack, you get a extended DLC story which extends the game even more
+A must game for still existing zombie survival gamers.",positive,steam_live,239140,True,1778001150,4239,english,3,0.54356849193572998,True,False,False
+Dying Light,best game,positive,steam_live,239140,True,1777999129,1250,english,0,0.5,True,False,False
+Dying Light,me gusta el parkour me siento en un video de Alex Segura goty,positive,steam_live,239140,True,1777998922,2680,spanish,0,0.5,True,False,False
+Dying Light,"Jogo para usar parkour pra escalar e fugir de zumbi.
+10/10",positive,steam_live,239140,True,1777997454,1398,brazilian,0,0.5,True,False,False
+Dying Light,"Great game , recommend for everyone",positive,steam_live,239140,True,1777996317,705,english,0,0.5,True,False,False
+Dying Light,Зомби очень крутая убивалка,positive,steam_live,239140,True,1777995786,68,russian,0,0.5,True,False,False
+Dying Light,Одна із найкращих ігор про зомбаків!,positive,steam_live,239140,True,1777995135,1488,ukrainian,0,0.5,True,False,False
+Dying Light,Cool timepass game,positive,steam_live,239140,True,1777995052,2403,english,0,0.5,True,False,False
+Dying Light,ddd,positive,steam_live,239140,True,1777994702,213,russian,0,0.5,True,False,False
+Dying Light,"worst ending gameplay wise, absolutely horrid level design, the final boss is a quick time event and the last level is just all the zombies you have been fighting thrown at you, hated every second of it. Instantly diminished the experience of the entire game for me because of this one terrible final level.",negative,steam_live,239140,False,1777992828,1121,english,1,0.47826087474822998,True,False,False
+Dying Light,паркурю в харане,positive,steam_live,239140,True,1777989979,737,russian,0,0.5,True,False,False
+Dying Light,一点都不好玩,positive,steam_live,239140,True,1777989369,6444,schinese,0,0.5,True,False,False
+Dying Light,zombi kesmece ortalama oyun,positive,steam_live,239140,True,1777988605,773,turkish,0,0.5,True,False,False
+Dying Light,с друнами вообще кайф помогаю им проходить сюжет,positive,steam_live,239140,True,1777988481,3409,russian,0,0.5,True,False,False
+Dying Light,"Great Graphics and flexible difficulty, good story and amazing combat. Also love the parkour, would recommend.",positive,steam_live,239140,True,1777988237,1260,english,0,0.5,True,False,False
+Dying Light,güzel oyun akıcı ve hıkayesı mukkemel,positive,steam_live,239140,True,1777988020,1330,turkish,0,0.5,True,False,False
+Dying Light,kütüphanemde duran şu güzelliğe bakın,positive,steam_live,239140,True,1777987135,1856,turkish,0,0.5,True,False,False
+Dying Light,Absolute Cinema ✋🗿🤚,positive,steam_live,239140,True,1777982830,4134,english,1,0.52173912525177002,True,False,False
+Dying Light,最早是在其他平台上玩的消1，现在又在Steam平台买了，这款游戏应该是我玩的最久的游戏了，加起来能有三百多小时，时隔这么久还是给我不小的震撼，确实是一款不可多得的佳作，入侵模式也是依然原汁原味，当年的画质如今依然能打，T社加油,positive,steam_live,239140,True,1777979630,493,schinese,0,0.5,True,False,False
+Dying Light,Дота лучше,positive,steam_live,239140,True,1777975974,4515,russian,0,0.5,True,False,False
+Dying Light,套壳跑酷游戏，不过画面放到现在属实难绷,positive,steam_live,239140,True,1777972128,339,schinese,0,0.5,True,False,False
+Dying Light,"Да вполне залипательная, и даже есть смотрашые с кишками висашыми.",positive,steam_live,239140,True,1777970942,2097,russian,0,0.5,True,False,False
+Dying Light,"This is the greatest game i have ever playing, it is in my top 5 games of all time, i love the glitchy gameplay, the parkour, and of course the gore",positive,steam_live,239140,True,1777969824,4400,english,0,0.5,True,False,False
+Dying Light,"This is a great game, however this is a bad port, alot of glitches and bugs, none game breaking but they are constant and very irritating, like infinite spawning enemies, enemies spawning directly in your face, things spawning where they are clipping through walls and stuff, enemies clipping through walls and into the room your in, and it just goes on and on. i played and beat this game, pretty much 100% it on the switch aside from the multiplayer side and it was fun, atmospheric and immersive, also the story is good and really makes you feel and think hard about things, but this is a bad port imo, its playable but ive found that i stop playing alot just because of the frustrating bugs and glitches. once i earn alot of achievements i'll be downloading mods in hopes to fix it.",negative,steam_live,239140,False,1777968723,1599,english,0,0.5,True,False,False
+Dying Light,"Özellikle arkadaş tayfasıyla co-op girince eğlencesi ve kaosu ikiye katlanıyor. Vuruş hissiyatı ve parkur mekanikleri o kadar akıcı ki, aradan kaç yıl geçse de hala taş gibi hissettiriyor. İkinci oyuna falan bakmadan direkt bunu alın, oynayın. Kesinlikle tavsiye ederim.",positive,steam_live,239140,True,1777967428,3921,turkish,0,0.5,True,False,False
+Dying Light,挺好的一款游戏,positive,steam_live,239140,True,1777965805,47,schinese,0,0.5,True,False,False
+Dying Light,Its aight.,positive,steam_live,239140,True,1777961204,11880,english,0,0.5,True,False,False
+Dying Light,"parkour, zombies, open world...
+i dont survive in real life but here yes!!",positive,steam_live,239140,True,1777960734,2940,spanish,0,0.5,True,False,False
+Dying Light,"Este juego es una cosa horrorosa. Lo unico bueno de este juego son las viejas, por eso le dedique muchas horas. recomendado",positive,steam_live,239140,True,1777956296,1999,spanish,0,0.5,True,False,False
+Dying Light,good game for c-c,positive,steam_live,239140,True,1777953583,1034,english,0,0.5,True,False,False
+Dying Light,哪位哥们能解释一下决定版和增强版有什么用吗？我除了这俩其他所有DLC都有了，买了会多什么吗？B站没搜到这块的说明啊,positive,steam_live,239140,True,1777953449,5540,schinese,0,0.5,True,False,False
+Dying Light,They ♥♥♥♥♥♥♥ killed Krane!!!,negative,steam_live,239140,False,1777950241,860,english,0,0.452961653470993042,True,False,False
+Dying Light,AHHHHHH ZOMBILE,positive,steam_live,239140,True,1777947664,1161,english,0,0.5,True,False,False
+Dying Light,PABLO,positive,steam_live,239140,True,1777947122,8374,spanish,0,0.5,True,False,False
+Dying Light,将主线和信条都通关了，玩到了最后没办法接受哈兰会被炸毁所以选择杀了圣母，太绝望了为哈兰还有信徒的人们付出了那么久的克兰被强行变成了夜魔，虽然知道他在困兽时还是好好的，但是想到付出了那么多还是拯救不了哈兰找不到解药还摆脱不了感染的命运就特别绝望,positive,steam_live,239140,True,1777946461,6236,schinese,0,0.5,True,False,False
+Dying Light,Excellent game to play coop with someone.,positive,steam_live,239140,True,1777945402,11525,english,0,0.5,True,False,False
