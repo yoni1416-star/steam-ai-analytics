@@ -1,0 +1,9 @@
+game_name,genre,price,positive_reviews,negative_reviews,peak_players,release_date
+Counter Strike 2,Action,0,7800000,1200000,1500000,2023-09-27
+Baldur's Gate 3,RPG,59.99,650000,35000,875000,2023-08-03
+Stardew Valley,Simulation,14.99,720000,25000,95000,2016-02-26
+Elden Ring,RPG,59.99,680000,60000,950000,2022-02-25
+Dota 2,MOBA,0,2100000,420000,780000,2013-07-09
+Cyberpunk 2077,RPG,59.99,680000,130000,1000000,2020-12-10
+Hades,Action,24.99,260000,9000,38000,2020-09-17
+Terraria,Adventure,9.99,1100000,25000,490000,2011-05-16
